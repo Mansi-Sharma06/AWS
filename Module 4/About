@@ -10,3 +10,4 @@ Module 4 : Advanced AWS Concepts
   4.8 Examining the Well-Architected Framework Design Principles  (Same as 4.7)
   Design a VPC and Associated Subnets (Lab 1)
   Build a Network by Using the VPC Wizard (Lab 2)
+  Configure Route Tables in a Virtual Network (Lab 3)
