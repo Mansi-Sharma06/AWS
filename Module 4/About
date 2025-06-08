@@ -11,3 +11,6 @@ Module 4 : Advanced AWS Concepts
   Design a VPC and Associated Subnets (Lab 1)
   Build a Network by Using the VPC Wizard (Lab 2)
   Configure Route Tables in a Virtual Network (Lab 3)
+  Manage AWS Logs by Using CloudTrail (Lab 4)
+  Create a CloudWatch Alarm (Lab 5)
+  Module Quiz
